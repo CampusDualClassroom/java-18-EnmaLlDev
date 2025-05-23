@@ -28,6 +28,7 @@ public class Exercise18 {
 				System.out.print(" ");
 			}
 			System.out.print(myArray[i]);
+
 		}
 	}
 }
